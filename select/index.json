@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ゼロの調律",
+  "base_artist": "天野月子",
+  "createdAt": "2026-03-16T02:24:38.373817Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゼロの調律",
+      "artist": "天野 月子",
+      "has_synced": false,
+      "path": "select/pl_01_ゼロの調律_天野_月子.txt"
+    }
+  ]
+}
